@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class ATM_P2_P2Test
+class ATM_P2Test
 {
     ATM_P2 x;
     deposit d;
